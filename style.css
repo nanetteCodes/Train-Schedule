@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("train.jpg");
+}
+
+h1 {
+  color: white;
+  font-size: 80px;
+  font-family: 'Bellefair', serif;
+}
+
+td {
+  font-family: 'Bellefair', serif;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+}
+
+.header {
+  text-align: center;
+}
+
+.panel {
+  opacity: 0.9;
+}
